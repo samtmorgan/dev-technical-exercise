@@ -14,7 +14,7 @@ Our client, "Logo Text Here" has supplied cumulative carbon emissions data in cs
 - Any reasonable programming language may be used. Use something comfortable, but capable.
 - Once the program has run, the csv file should remain unchanged, and no new csv file created.
 - The quality of the visualisation should be such that you would feel comfortable presenting it to a paid client.
-- The type and style of the graph should be such that it conveys meaning to the client (no pie charts!!)
+- The type and style of the graph should be such that it conveys meaning to the client.
 - It is desired that the client eventually access the data through the web, meaning that it must be displayed in the browser.
 - The client would like their logo displayed in the top center, with appropriate padding.
 - While the browser aspect is important, please do not create a full user experience, with authentications etc. Just a graph and logo on a page is sufficient.
