@@ -7,7 +7,7 @@ Our client, "Logo Text Here" has supplied cumulative carbon emissions data in cs
 
 ### Steps
 1. Transform the data so that it is weekly, not cumulative.
-1. Display the data on a graph with the x axis being weeks and the y axis being carbon emitted that week in tCO2e (a standard unit)
+1. Display the data on a graph with the x axis being weeks and the y axis being carbon emitted that week in tCO2e (a standard unit).
 
 ### Considerations
 - Data transformation should be done programmatically, therefore no excel or similar tools are to be used.
